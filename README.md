@@ -38,9 +38,10 @@ F:\RustDesk\release\
 ### Windows
 
 1. 解压 `Cinnamoroll-Windows-portable.zip`
-2. 右键 `一键安装.bat` → **以管理员身份运行**
-3. 从开始菜单打开 Cinnamoroll / RustDesk
-4. 设置 → 网络 → 填写你的自建服务器：
+2. **双击 `install.bat`**（推荐；纯英文，避免 cmd 中文编码炸脚本）
+3. 或以管理员运行 `一键安装.bat`
+4. 从开始菜单打开 Cinnamoroll / RustDesk
+5. 设置 → 网络 → 填写你的自建服务器：
 
 | 项 | 说明 |
 |----|------|
