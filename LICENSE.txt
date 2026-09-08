@@ -1,0 +1,7 @@
+本仓库包含基于 RustDesk 二次开发的客户端发布说明与文档。
+
+RustDesk 上游项目采用 AGPL-3.0 许可：
+https://www.gnu.org/licenses/agpl-3.0.html
+
+二次分发二进制时，请遵守 AGPL-3.0 对衍生作品的要求（含提供对应源码义务）。
+自定义 UI 资源仅供个人/授权范围内使用。

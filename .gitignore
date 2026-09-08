@@ -1,0 +1,34 @@
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Secrets / local only
+.env
+.env.*
+*.pem
+*.key
+id_ed25519*
+**/key.properties
+**/*.jks
+**/credentials*
+**/secrets*
+
+# Build / cache
+node_modules/
+.target/
+build/
+.dart_tool/
+pub-cache/
+
+# Large local binaries (use GitHub Releases)
+releases/windows/*.zip
+releases/android/*.apk
+*.apk
+*.zip
+!docs/**
